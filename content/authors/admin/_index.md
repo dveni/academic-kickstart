@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Daniel Vera Nieto
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research intern & Telecommunication Engineering student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Intelligent Systems Group
+  url: "http://gsi.upm.es/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include NLP, computer vision and AGI.
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Natural Language Processing
+- Computer Vision
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MEng in Telecommunication Engineering
+    institution: Universidad Politécnica de Madrid
+    year: 2021
+  - course: BEng in Telecommunication Technologies and Services Engineering
+    institution: Universidad Politécnica de Madrid
+    year: 2015
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,13 +45,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/daveni_
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/dveni
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/danielveranieto/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +68,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a research intern at [Intelligent Systems Group](http://gsi.upm.es/es/) and a machine learning enthusiast looking for new solutions to everyday problems using my acquired knowledge and what I learn on the fly. I am currently in my last year of my master's degree in Telecommunication Engineering where I have studied several courses but I have truly learned optimization, statistical signal analysis, project management and multimedia services and applications.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+You will find in this website information about me, my projects and thoughts along my learning journey. Kind of an enhanced resume where I don't only show what I have done, but what I know. 
+
+Currently, this website is work in progress (:
