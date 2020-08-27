@@ -68,8 +68,8 @@ user_groups:
 - Visitors
 ---
 
-I am a research intern at [Intelligent Systems Group](http://gsi.upm.es/es/) and a machine learning enthusiast looking for new solutions to everyday problems using my acquired knowledge and what I learn on the fly. Also, I am currently in my last year of my master's degree in Telecommunication Engineering at the Universidad Politécnica de Madrid. 
+I am a research intern at [Intelligent Systems Group](http://gsi.upm.es/es/) while I study my last year of MSc in Telecommunication Engineering at ETSIT, UPM. Before, I received a BSc in Telecommunication Technologies and Services from the same university, where I participated in the Erasmus+ exchange program to study abroad for one year at the Politècnico di Torino.
 
-You will find in this website information about me, my projects and thoughts along my learning journey. Kind of an enhanced resume where I don't only show what I have done, but what I know. 
+Welcome to my website where you will find information about me, my projects, and thoughts along my learning journey. Kind of an enhanced resume where I don't only show what I have done, but what I know. 
 
 Currently, this website is work in progress (:

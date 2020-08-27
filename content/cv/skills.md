@@ -3,7 +3,7 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 70  # Order that this section will appear.
+weight = 11  # Order that this section will appear.
 
 title = "Skills"
 subtitle = ""
@@ -15,22 +15,42 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "uk"
+  icon_pack = "custom"
+  name = "English"
+  description = "C1 Level - Full professional proficiency"
+  
+[[feature]]
+  icon = "it"
+  icon_pack = "custom"
+  name = "Italian"
+  description = "Elementary proficiency"  
+  
+[[feature]]
+  icon = "spain"
+  icon_pack = "custom"
+  name = "Spanish"
+  description = "Native"
+
+
+[[feature]]
+  icon = "python"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
-  
+  name = "Python"
+  description = "NumPy, SciPy, Pandas, Django"
+
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  icon = "ai"
+  icon_pack = "custom"
+  name = "Machine Learning"
+  description = "sklearn, nltk, TensorFlow"
+
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "codigo"
+  icon_pack = "custom"
+  name = "Software"
+  description = "Java, HTML/CSS/JS, Node, C, Matlab, SQL"
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
@@ -49,3 +69,5 @@ subtitle = ""
 #  description = "90%"
 
 +++
+
+[//]: <> (Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a> or from www.fontawesome.com)

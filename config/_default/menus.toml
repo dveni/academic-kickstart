@@ -22,6 +22,11 @@
 [[main]]
   name = "Bitácora"
   url = "/bitacora"
+  weight = 40
+
+[[main]]
+  name = "CV"
+  url = "/cv"
   weight = 50
 
 [[main]]

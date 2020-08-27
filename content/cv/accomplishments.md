@@ -19,33 +19,42 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "MIT Professional Education"
+  organization_url = "https://professional.mit.edu/"
+  title = "Leading Digital Transformation"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+  certificate_url = "https://drive.google.com/file/d/1obqKYWYFbdImiYw7iAoHPbiYTEPjX6z3/view?usp=sharing"
+   date_start = "2020-05-01"
+  date_end = "2020-06-30"
+  description = """
+  * Banco Santander Scholarship
+  * Online course made during lockdown in Spain due to Covid19  
 
-[[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  An introduction to cutting-edge technologies in the fields of artificial intelligence, blockchain, cloud computing, cybersecurity, and the Internet of Things. Also, we have worked to perfect the interpersonal skills necessary to get these technologies implemented, such as leadership skills and cultural awareness.
+  """
+
+
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "KeepCoding"
+  organization_url = "https://keepcoding.io/"
+  title = "Curso Django + Python & REST"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  certificate_url = "https://drive.google.com/file/d/11ZemSNnAqoV4IXS7J9RqK6np7ZpFyxz4/view?usp=sharing"
+  date_start = "2018-11-01"
+  date_end = "2019-01-31"
+  description = """
+  * Online course organized by Telefónica Talentum and KeepCoding.  
 
+  An introduction to Python and Django framework, learning how to build web apps and REST services. The code developed during this course can be found [here](https://github.com/dveni/DjangoCourse) (the web app I developed is not deployed tho).
+  """
+[[item]]
+  organization = "Comunidad de Madrid"
+  organization_url = ""
+  title = "Excellence Scholarship for County of Madrid 2013 & 2015"
+  url = ""
+  certificate_url = ""
+  date_start = "2013-07-01"
+  date_end = "2015-07-01"
+  description = "Awarded to top students in high school & top students in university access exam."
 +++
