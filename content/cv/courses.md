@@ -24,8 +24,8 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Open Summer of Code"
-  company = ""
-  company_url = "https://professional.mit.edu/"
+  company = "OSOC"
+  company_url = "https://2020.summerofcode.es/"
   location = "Online"
   date_start = "2020-07-06"
   date_end = "2020-07-17"
