@@ -5,7 +5,7 @@ title: "Application deployed on Openstack"
 summary: "Automatic deployment of an application on Openstack using Heat."
 authors: []
 tags: ["Openstack", "Bash", "Heat", "Cloud"]
-categories: []
+categories: ["course project"]
 date: 2021-01-15T20:21:21+01:00
 
 # Optional external URL for project (replaces project detail page).

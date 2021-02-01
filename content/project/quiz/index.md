@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Quiz"
-summary: ""
+title: "Quiz Application"
+summary: "A web application to create and play quizzes built with Nodejs"
 authors: []
-tags: []
-categories: []
-date: 2021-02-01T20:20:56+01:00
-draft: true
+tags: ["Javascript", "Nodejs", "web"]
+categories: ["course project"]
+date: 2018-05-01T20:20:56+01:00
+draft: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -28,7 +28,13 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
+links:
+ - name: Web app
+   url: https://daveni-quiz.herokuapp.com/
+   icon_pack: fab
+   icon: twitter
+
+url_code: "https://github.com/dveni/ProyectoQuiz"
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -40,3 +46,13 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+## Description
+
+Web application to play quizzes created by the community. Built in Javascript using Nodejs as back-end and deployed in Heroku. 
+
+## Features
+* User login system to create new quizzes
+* Quizz creation forms
+* Ranking of users
+* Play random quizzes feature

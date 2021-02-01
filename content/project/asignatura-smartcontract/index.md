@@ -4,7 +4,7 @@
 title: "Dapp using Smart Contracts"
 summary: "A distributed application for course management based on Ethereum Smart Contracts"
 authors: []
-tags: ["Blockchain", "Ethereum", "Smart Contract", "Solidity", "Truffle suite", "React", "Javascript"]
+tags: ["Blockchain", "Ethereum", "Smart Contract", "Solidity", "Truffle suite", "React", "Javascript", "web"]
 categories: ["course project"]
 date: 2021-01-10T09:36:14+01:00
 
