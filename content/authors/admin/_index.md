@@ -18,12 +18,12 @@ organizations:
   url: "http://gsi.upm.es/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include NLP, computer vision and AGI.
+bio: My interests include NLP, causal inference and software engineering.
 
 interests:
 - Artificial Intelligence
 - Natural Language Processing
-- Computer Vision
+- Causal Inference
 
 education:
   courses:
@@ -70,6 +70,6 @@ user_groups:
 
 I am a research intern at [Intelligent Systems Group](http://gsi.upm.es/es/) while I study my last year of MSc in Telecommunication Engineering at ETSIT, UPM. Before, I received a BSc in Telecommunication Technologies and Services from the same university, where I participated in the Erasmus+ exchange program to study abroad for one year at the Politècnico di Torino.
 
-Welcome to my website where you will find information about me, my projects, and thoughts along my learning journey. Kind of an enhanced resume where I don't only show what I have done, but what I know. 
+Welcome to my website where you will find information about me, my projects, and thoughts along my learning journey. 
 
 Currently, this website is work in progress (:
